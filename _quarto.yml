@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "My Personal Website"
+  site-url: https://<your-github-username>.github.io
+  description: "My Personal Website's Description"
+  navbar:
+    left:
+      - href: index.md
+        text: Home
+      - href: cv.md
+        text: Resume
+      - posts.md
+    right:
+      - icon: rss
+        href: posts.xml
+
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true
