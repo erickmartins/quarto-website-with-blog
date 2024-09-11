@@ -25,7 +25,7 @@ Now click on "Pages" on the left side and make sure "Source" says "Deploy from a
 
 (If you want to use a custom domain, this is also where you set that up.)
 
-With that done, go to work on your repository! Edit the `site_url` parameter in `_quarto.yml` to match your account name. Add your own picture, write your own content. Commit and push it to your repository. Everything else will happen automatically! The yml file inside `.github/workflows` creates an automatic action that renders your website from the markdown files.
+With that done, go to work on your repository! Edit the `site_url` parameter in `_quarto.yml` to match your account name. Add your own picture, write your own content. Commit and push it to your repository. Everything else will happen automatically! The yml file inside `.github/workflows` creates an automatic action that renders your website from the markdown files. Your website will be visible and public at https://<youraccountname>.github.io as soon as you push any changes! (give it like a minute after a push to see any changes)
 
 ## Having to push to my repository every time I want to see what a change looks like is annoying.
 
