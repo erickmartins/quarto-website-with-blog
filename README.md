@@ -3,7 +3,13 @@ Template repo for a Quarto website with a blog!
 
 ## How do I use this?
 
-First of all, you need to clone this template into your own github account - make it a repository named <YOUR_GITHUB_ACCOUNT>.github.io. 
+First of all, you need to use this template to create a new repository into your own github account - on the top right, click "use this template", then "Create a new repository". 
+
+![](template.png)
+
+Make it a repository named <YOUR_GITHUB_ACCOUNT>.github.io. You will need to make it public to be able to have it as a website, of course. Give it a description if you want.
+
+![](repo.png)
 
 There are two things you need to do in github: first, you need to create a `gh-pages` branch for your repository. Click on "main" on the top left of your repository's page, type `gh-pages`, click "Create branch gh-pages from main". Like this.
 
