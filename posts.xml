@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>My Personal Website</title>
+<link>https://&lt;your-github-username&gt;.github.io/posts.html</link>
+<atom:link href="https://&lt;your-github-username&gt;.github.io/posts.xml" rel="self" type="application/rss+xml"/>
+<description>My Personal Website&#39;s Description</description>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Wed, 11 Sep 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Post template</title>
+  <dc:creator>Your name</dc:creator>
+  <link>https://<your-github-username>.github.io/posts/post_template/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Just write more markdown here!</p>
+<section id="this-is-a-section" class="level1">
+<h1>This is a section</h1>
+<p>Section text!</p>
+<section id="this-is-a-subsection" class="level2">
+<h2 class="anchored" data-anchor-id="this-is-a-subsection">This is a subsection</h2>
+<p>Subsection text! You get it now I assume</p>
+<p>This is how you reference an image in your blog post</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="dundee.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="This is just a photo I took last time I was in Dundee."><img src="https://<your-github-username>.github.io/posts/post_template/dundee.jpg" class="img-fluid figure-img" alt="This is just a photo I took last time I was in Dundee."></a></p>
+<figcaption>This is just a photo I took last time I was in Dundee.</figcaption>
+</figure>
+</div>
+<p>That’s it! go for it!</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>template</category>
+  <category>any-category-you-want</category>
+  <guid>https://<your-github-username>.github.io/posts/post_template/</guid>
+  <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://&lt;your-github-username&gt;.github.io/posts/post_template/dundee.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

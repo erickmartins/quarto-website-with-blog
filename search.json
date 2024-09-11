@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "posts/post_template/index.html",
+    "href": "posts/post_template/index.html",
+    "title": "Post template",
+    "section": "",
+    "text": "Just write more markdown here!"
+  },
+  {
+    "objectID": "posts/post_template/index.html#this-is-a-subsection",
+    "href": "posts/post_template/index.html#this-is-a-subsection",
+    "title": "Post template",
+    "section": "This is a subsection",
+    "text": "This is a subsection\nSubsection text! You get it now I assume\nThis is how you reference an image in your blog post\n\n\n\nThis is just a photo I took last time I was in Dundee.\n\n\nThat’s it! go for it!"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Post template\n\n\n\n\n\n\ntemplate\n\n\nany-category-you-want\n\n\n\nYour post description\n\n\n\n\n\nSep 11, 2024\n\n\nYour name\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "My Personal Website",
+    "section": "",
+    "text": "ANTI-CAPITALIST SOFTWARE LICENSE (v 1.4)\nCopyright © 2004 Erick Ratamero\nThis is anti-capitalist software, released for free use by individuals and organizations that do not operate by capitalist principles.\nPermission is hereby granted, free of charge, to any person or organization (the “User”) obtaining a copy of this software and associated documentation files (the “Software”), to use, copy, modify, merge, distribute, and/or sell copies of the Software, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or modified versions of the Software.\nThe User is one of the following:\n\n\nAn individual person, laboring for themselves\nA non-profit organization\nAn educational institution\nAn organization that seeks shared profit for all of its members, and allows non-members to set the cost of their labor\n\n\nIf the User is an organization with owners, then all owners are workers and all workers are owners with equal equity and/or equal vote.\nIf the User is an organization, then the User is not law enforcement or military, or working for or under either.\n\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT EXPRESS OR IMPLIED WARRANTY OF ANY KIND, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi! This is a title.",
+    "section": "",
+    "text": "Just write markdown here! This is your home page, it’s where folks will land when they go to the main website address. Anything that is valid Quarto Markdown can go here!"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Write more markdown here!"
+  }
+]
