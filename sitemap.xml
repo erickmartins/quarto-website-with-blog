@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://&lt;your-github-username&gt;.github.io/posts/post_template/index.html</loc>
-    <lastmod>2024-09-11T11:31:52.487Z</lastmod>
-  </url>
-  <url>
     <loc>https://&lt;your-github-username&gt;.github.io/posts.html</loc>
-    <lastmod>2024-09-11T11:31:52.479Z</lastmod>
+    <lastmod>2024-10-08T14:09:00.513Z</lastmod>
   </url>
   <url>
     <loc>https://&lt;your-github-username&gt;.github.io/LICENSE.html</loc>
-    <lastmod>2024-09-11T11:31:52.475Z</lastmod>
+    <lastmod>2024-10-08T14:09:00.511Z</lastmod>
   </url>
   <url>
     <loc>https://&lt;your-github-username&gt;.github.io/index.html</loc>
-    <lastmod>2024-09-11T11:31:52.475Z</lastmod>
+    <lastmod>2024-10-08T14:09:00.512Z</lastmod>
+  </url>
+  <url>
+    <loc>https://&lt;your-github-username&gt;.github.io/posts/post_template/index.html</loc>
+    <lastmod>2024-10-08T14:09:00.521Z</lastmod>
   </url>
   <url>
     <loc>https://&lt;your-github-username&gt;.github.io/cv.html</loc>
-    <lastmod>2024-09-11T11:31:52.475Z</lastmod>
+    <lastmod>2024-10-08T14:09:00.512Z</lastmod>
   </url>
 </urlset>
